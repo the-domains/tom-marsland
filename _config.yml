@@ -1,0 +1,14 @@
+layout_spectrum: 0.7803437
+color:
+  saturation: 0.1633688
+  lightness: 0.2771377
+  brandStrength: 0.291416
+  rhythmicContrast: 0.1676144
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+typography_spectrum: 0.9329233
+name: Tom Marsland
