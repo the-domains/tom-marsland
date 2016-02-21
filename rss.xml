@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Tom Marsland]]></title>
-        <description><![CDATA[Tom Marsland]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[A Veteran Who Cares]]></title>
+        <description><![CDATA[A Veteran Who Cares]]></description>
+        <link>https://thegrid.ai/tom-marsland/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 21 Feb 2016 15:37:44 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 21 Feb 2016 17:46:55 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/tom-marsland/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Tom Marsland - Political Views</p>]]></description>
-            <link>undefined19640a6c-844e-444f-8928-7872f2b42253/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e113f764-43e5-42c8-88de-d7e1bbaeb55d.png">]]></description>
+            <link>https://thegrid.ai/tom-marsland/19640a6c-844e-444f-8928-7872f2b42253/index.html</link>
             <guid isPermaLink="false">19640a6c-844e-444f-8928-7872f2b42253</guid>
-            <pubDate>Sun, 21 Feb 2016 15:37:42 GMT</pubDate>
+            <pubDate>Sun, 21 Feb 2016 17:45:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
