@@ -1,14 +1,29 @@
+name: Tom Marsland
+favicon: null
 layout_spectrum: 0.7803437
+typography_spectrum: 0.9329233
+title: A Veteran Who Cares
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.1633688
-  lightness: 0.2771377
-  brandStrength: 0.291416
-  rhythmicContrast: 0.1676144
   brandColors:
     - '#FF6700'
     - '#EBEBEB'
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-typography_spectrum: 0.9329233
-name: Tom Marsland
+  brandStrength: 0.291416
+  lightness: 0.2771377
+  saturation: 0.1633688
+  rhythmicContrast: 0.1676144
+purpose: []
